@@ -1,0 +1,22 @@
+ body {
+    color: #f7f7f7;
+  }
+   
+ td{
+    color:#f7f7f7;
+} 
+/* Make a large centered button on the form section of the page */
+/* #filter-btn{
+    text-align: center;
+    margin:0 auto;
+    display: block;
+} */
+
+.jumbo {
+ text-align: center;   
+ background-image: url("../images/nasa.jpg");
+ background-size:100% 100%;
+}  
+.list-group-item{
+    color:#f7f7f7;
+}
